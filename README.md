@@ -1,6 +1,7 @@
 # IO-Visuals
 Provides ***EVE*** and ***Scatterer*** support for ***stock***, ***OPM***, ***MPE***, ***NeidonPlus***, and ***Extrasolar***.
 ***Astronomer's Visual pack*** is a **dependency**! These configs and textures draw from ***AVP***, ***SVE***, ***OPMVO***, and ***Spectra***.
+The skybox is the 60°(Stock)NE_4k skybox by [uschi0815](https://forum.kerbalspaceprogram.com/index.php?/topic/128932-milky-way-panorama-as-skybox-for-texturereplacer/).
 
 Support for ***DOE*** and ***Planetshine*** are also included, as well as some configs that alter/addend to ***SVT***, ***SunflaresOfMaar***, ***KopernicusExpansion***, and others.
 
